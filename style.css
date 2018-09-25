@@ -1,0 +1,37 @@
+.main
+{
+    background-color: #958cff;
+}
+.heading1
+{
+    color: #ceffbc;
+    text-decoration: underline;
+    text-align: center;
+}
+hr
+{
+    height: 10px;
+    background-color: #ff52f5;
+    /*opacity: 0.5;*/
+}
+form
+{
+    width: 40%;
+    margin-left: 30%;
+    margin-right:30%;
+    background-color: #3ffff7;
+    padding: 20px;
+}
+.x
+{
+    width: 100%;
+    margin-bottom: 20px;
+    border: 2px solid #ff5c72;
+    border-radius: 10px;
+    padding-left: 10px;
+}
+.y,.z
+{
+    margin: 20px;
+    width: 35%;
+}
